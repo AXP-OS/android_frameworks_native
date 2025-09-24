@@ -57,7 +57,7 @@
     <feature name="android.software.device_admin" />
 
     <!-- Feature to specify if the device support managed users. -->
-    <feature name="android.software.managed_users" notLowRam="true"/>
+    <feature name="android.software.managed_users" />
 
     <!-- Feature to specify if the device supports controls. -->
     <feature name="android.software.controls" />
